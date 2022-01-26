@@ -132,15 +132,15 @@
     padding: 0.2rem 0.7rem 0.5rem 0.7rem;
   }
   
-  .search-bar > img {
+.search-bar > img {
     width: 2rem;   
     background: white;
     border-top-left-radius: 2rem;
     border-bottom-left-radius: 2rem;
     padding-left: 1rem;
-  }
+}
   
-  .search-bar input {
+.search-bar input {
     outline: none;
     border: none;
     padding: 0.5rem 0.5rem 0.5rem 2rem;
@@ -148,14 +148,14 @@
     border-top-right-radius: 2rem;
     border-bottom-right-radius: 2rem;
     font-family: "Segoe UI";
-    }
+}
   
   
-  .search-bar input::placeholder {
+.search-bar input::placeholder {
     color: #919191;
     font-size: smaller;
     
-  }
+}
 
 .archivebar{
     color: #009688;
@@ -260,7 +260,7 @@
     padding-left: 0px;
     padding-right: 0px;
     width: 774px;
-    background-image: url(Images/);
+    background-image: url(Images/chat.png);
     height: 570px;
     
 }
