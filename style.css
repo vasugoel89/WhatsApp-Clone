@@ -322,7 +322,7 @@
     
 }
 .displaydate{
-    padding: 10px 100px 0px 355px;
+    padding: 60px 100px 0px 355px;
 }
 
 .displaytime{
@@ -497,3 +497,49 @@
 .gif img{
     border-radius: 4px;
 }
+.pin{
+    padding: 2px 390px 2px 2px;
+    margin: 10px 40px 10px 4px;
+    background: #009688;
+    position:fixed;
+    border-radius: 4px;
+}
+
+.pin svg{
+    text-align: center;
+    padding: 3px 2px 2px 2px;
+    margin: 3px 2px 2px 2px;
+    border-radius: 4px;
+    background-color: #e6f7ff;
+    font-size: 10px;
+    width: 30px;
+    height: 25px;
+}
+.pinsender{
+    font-size: 12px; 
+    align-content: center;
+    background: #e6f7ff;
+    padding: 2px 9px 4px 9px;
+    margin: 0px 2px 2px 20px;
+    border-radius: 4px;
+    
+}
+.pinmessage{
+    font-size: 12px;
+    align-content: center;
+    background: #e6f7ff;
+    padding: 2px 9px 4px 9px;
+    margin: 0px 2px 2px 20px;
+    border-radius: 4px;
+   
+}
+.pintime{
+    font-size: 12px;
+    align-content: flex-end;
+    background: #e6f7ff;
+    padding: 2px 9px 4px 9px;
+    margin: 0px 2px 2px 20px;
+    border-radius: 4px; 
+   
+}
+
